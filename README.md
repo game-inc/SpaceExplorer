@@ -1,2 +1,3 @@
 # SpaceExplorer
-This will be a side scroller type game
+The Greatest Game ever created
+
